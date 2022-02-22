@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: #f0f0f0;
   font-family: "Inter", sans-serif;
   font-size: 13px;
 }
@@ -28,7 +28,6 @@ body {
 
 .num {
   display: grid;
-  grid-gap: 2px;
   grid-template-columns: repeat(4, 1fr);
 }
 
@@ -51,4 +50,8 @@ body {
 .btn-equals {
   background-color: #f5913e;
   padding: 15px 30px;
+}
+
+.btn-zero {
+  grid-column: 1/3;
 }
