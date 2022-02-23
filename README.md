@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Math magician App
+# Math magicians
 
-> Description the project.
+> Math magicians is a website for all mathematics fans. It is a Single Page App (SPA) that allows users to make calculations and read a random math-related quote.
 
 
 ## Built With
