@@ -1,0 +1,48 @@
+.title {
+  font-size: 30px;
+}
+
+.nav-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  padding-right: 150px;
+}
+
+.Home {
+  padding: 10%;
+}
+
+.menulinks {
+  padding: 20px;
+  color: black;
+  list-style: none;
+}
+
+.menulinks:hover {
+  color: #ff0101;
+}
+
+.menulinks.active {
+  color: #c0f;
+}
+
+.home-head {
+  font-size: 34px;
+  margin-top: -40px;
+}
+
+.home-content {
+  margin: 40px 0;
+}
+
+.Quote-contain {
+  padding: 10%;
+  font-size: 20px;
+}
