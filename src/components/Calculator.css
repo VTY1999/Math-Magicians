@@ -11,12 +11,12 @@ body {
 }
 
 .calc-container {
+  position: absolute;
   top: 20%;
-  right: 40%;
+  right: 20%;
   text-align: center;
-  display: grid;
-  justify-content: center;
-  padding-top: 10%;
+  padding-top: 2%;
+  width: 500px;
 }
 
 .screen {
@@ -54,4 +54,13 @@ body {
 
 .btn-zero {
   grid-column: 1/3;
+}
+
+.calculate {
+  align-items: center;
+  padding: 30px 100px;
+}
+
+.start {
+  font-size: 20px;
 }
