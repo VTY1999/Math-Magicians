@@ -30,9 +30,9 @@ const Calculator = () => {
       <h3 className="start">Let&apos;s do some math!</h3>
       <div className="calc-container">
         {next ? (
-          <div className="screen">{next}</div>
+          <div className="screen" data-testid="total">{next}</div>
         ) : (
-          <div className="screen">{total}</div>
+          <div className="screen" data-testid="total">{total}</div>
         )}
         <div className="num">
           {btns.map((btnName) => (
