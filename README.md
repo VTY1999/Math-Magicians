@@ -12,8 +12,7 @@
 - Javascript
 - React
 
-## Live Demo
-
+## Live Demo [Netlify](https://francis-math-magicians.netlify.app)
 
 
 ## Getting Started
