@@ -12,8 +12,8 @@
 - Javascript
 - React
 
+## Live Demo [Heroku](https://math-magiciann.herokuapp.com)
 ## Live Demo [Netlify](https://francis-math-magicians.netlify.app)
-
 
 ## Getting Started
 
